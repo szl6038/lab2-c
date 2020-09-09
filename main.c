@@ -43,7 +43,7 @@ int main(void) {
     gradeletter = "F";
   }
 
-  printf("Your letter grade for CMPSC 131 is: %s.\n", gradeletter);
+  printf("Your letter grade for CMPSC 131 is %s.\n", gradeletter);
 
   return 0;
 
